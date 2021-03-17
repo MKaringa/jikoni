@@ -33,3 +33,9 @@ body{
     position: relative;
     margin-top: 20px;
     float: left;
+}
+.lunch{
+    float: inner;
+    text-align: center;
+    margin-top: 20px;
+    display: inline-block;
