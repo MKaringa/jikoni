@@ -65,3 +65,19 @@ body{
     border: orangered;
     font-size: 20px;
 }
+.container2{
+    border: 3px;
+    margin: 400px;
+    height: 200px;
+
+}
+.container2 > div{
+    flex-direction: row;
+
+}
+.img2{
+   float: right; 
+}
+.drinks{
+    float: left;
+}
