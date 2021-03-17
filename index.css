@@ -81,3 +81,12 @@ body{
 .drinks{
     float: left;
 }
+.menu{
+    margin-left: 20px;
+    background-image: url(./images/foodsBg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.menu > id{
+    flex-direction: column;
+}
