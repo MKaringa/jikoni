@@ -27,3 +27,9 @@ body{
     justify-content: center;
 }
 
+.breakfast{
+    text-align: center;
+    color: white;
+    position: relative;
+    margin-top: 20px;
+    float: left;
