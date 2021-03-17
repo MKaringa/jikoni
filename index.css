@@ -39,3 +39,8 @@ body{
     text-align: center;
     margin-top: 20px;
     display: inline-block;
+}
+}
+.dinner{
+    float: right;
+}
