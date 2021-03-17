@@ -88,5 +88,14 @@ body{
     background-size: 100%;
 }
 .menu > id{
-    flex-direction: column;
+    flex-direction: row;
+}
+#cp{
+    float: left;
+}
+#cb{
+    float: right;
+}
+#bb{
+    display: inline-block;
 }
