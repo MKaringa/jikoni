@@ -35,12 +35,27 @@ body{
     float: left;
 }
 .lunch{
-    float: inner;
+    
     text-align: center;
     margin-top: 20px;
     display: inline-block;
 }
-}
+
 .dinner{
     float: right;
+}
+.container1{
+    border: 3px solid black;
+    margin: 400px;
+    height: 200px;
+    
+}
+.container> div{
+    flex-direction: row;
+}
+.Fast_food{
+    float: right;
+}
+.img1{
+    float: left;
 }
